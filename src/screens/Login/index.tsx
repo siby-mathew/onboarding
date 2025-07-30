@@ -22,7 +22,7 @@ export const Login: React.FC = () => {
         alignItems={"center"}
         justifyContent={"center"}
       >
-        <Flex bg="solana" bgClip={"text"} fontSize={23}>
+        <Flex mb={3} bg="solana" bgClip={"text"} fontSize={23}>
           Inbox. Identity. Influence
         </Flex>
         <Flex my={2}>
