@@ -12,7 +12,7 @@ export const UserLayout: React.FC = () => {
       justifyContent={"center"}
       flexDirection={"column"}
     >
-      <Flex>
+      <Flex mb={3}>
         <UserProfileCard />
       </Flex>
       <Flex>
