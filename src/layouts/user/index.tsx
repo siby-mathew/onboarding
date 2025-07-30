@@ -17,8 +17,6 @@ export const UserLayout: React.FC = () => {
       </Flex>
       <Flex>
         <chakra.span
-          bg="solana"
-          bgClip={"text"}
           fontWeight={"bold"}
           fontSize={{
             base: 17,
