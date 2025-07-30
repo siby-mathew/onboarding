@@ -23,7 +23,7 @@ export const Login: React.FC = () => {
         justifyContent={"center"}
       >
         <Flex bg="solana" bgClip={"text"} fontSize={23}>
-          Don't email it. SolMail it.
+          Inbox. Identity. Influence
         </Flex>
         <Flex my={2}>
           <Button
